@@ -1,3 +1,3 @@
-![maru](./maru2.gif)
+![maru](./maru3.gif)
 
 ウチのお犬です。
